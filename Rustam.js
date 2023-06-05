@@ -10,3 +10,8 @@ square = (x) => {(x*x)}
 square(x)
 
 sd;lfkjas;dfkas
+
+Hello()
+
+ByteLengthQueuingStrategy()
+
